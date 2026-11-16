@@ -1,78 +1,50 @@
-# IT Help Desk Ticket Management System
+# IT Help Desk Ticket Management Lab
 
-![Systems Analysis](https://img.shields.io/badge/Systems_Analysis-173B57?style=for-the-badge)
+![IT Support](https://img.shields.io/badge/IT_Support-173B57?style=for-the-badge)
 ![ITSM](https://img.shields.io/badge/ITSM-173B57?style=for-the-badge)
-![Project Design](https://img.shields.io/badge/Project_Design-173B57?style=for-the-badge)
+![Hands-on Lab](https://img.shields.io/badge/Hands--on_Lab-173B57?style=for-the-badge)
 
 ## Project Overview
 
-This academic project focuses on the analysis and design of a centralized IT Help Desk Ticket Management System for a fictional small business with 50 employees and two IT technicians.
+A personal hands-on IT support lab designed to simulate a real-world help desk environment.
 
-The proposed system aims to improve IT support operations, organize service requests, and provide better visibility into technical issues and their resolution.
+This project builds upon my professional experience with BMC Remedy, technical troubleshooting, and user access coordination as an Information Systems Coordinator in the United States Marine Corps.
 
-## Business Problem
+## Lab Environment
 
-The organization currently handles IT support requests through emails and phone calls. Without a centralized ticketing system, requests can be missed, delayed, or difficult to track.
+- Fictional small business
+- 50 employees
+- 2 IT technicians
+- Centralized IT ticketing platform
+- Simulated technical support requests
 
-## Proposed Solution
+## Learning Objectives
 
-Design a centralized ticket management system that allows employees to submit technical support requests and enables IT technicians to manage, prioritize, track, and resolve tickets.
+- Configure and navigate an IT ticketing platform
+- Create, categorize, and prioritize support tickets
+- Troubleshoot common hardware and software issues
+- Manage user access requests
+- Practice employee onboarding and offboarding
+- Document troubleshooting procedures and resolutions
+- Follow incident escalation procedures
 
-## Project Objectives
+## Lab Progress
 
-| Objective | Target |
-|---|---|
-| Centralized ticket tracking | Record 100% of IT support requests within the first month |
-| Response time improvement | Reduce initial response times by 30% within three months |
-| Ticket resolution | Resolve at least 85% of tickets within two business days by month three |
+| Lab | Topic | Status |
+|---|---|---|
+| 01 | Help Desk Environment Setup | Planned |
+| 02 | Ticket Creation and Management | Planned |
+| 03 | Hardware and Software Troubleshooting | Planned |
+| 04 | User Account and Password Support | Planned |
+| 05 | Network Connectivity Troubleshooting | Planned |
+| 06 | Employee Onboarding and Offboarding | Planned |
+| 07 | Incident Escalation | Planned |
+| 08 | Resolution Documentation | Planned |
 
-## Proposed System Features
+## Project Documentation
 
-- User authentication and login
-- IT support ticket submission
-- Ticket assignment
-- Ticket status tracking
-- Email notifications
-- Basic reporting
-
-## Proposed Ticket Workflow
-
-1. Employee submits an IT support request.
-2. A ticket is created in the system.
-3. IT technician reviews and prioritizes the request.
-4. The ticket is assigned for troubleshooting.
-5. Ticket status is updated throughout the process.
-6. The issue is resolved and documented.
-7. The ticket is closed.
-
-## Project Planning
-
-| Category | Details |
-|---|---|
-| Organization | Fictional small business |
-| Employees | 50 |
-| IT Technicians | 2 |
-| Estimated Budget | $6,000 |
-| Proposed Timeline | 11 weeks |
-
-## Skills Demonstrated
-
-- Systems analysis and design
-- Business problem identification
-- Requirements gathering and definition
-- IT service management concepts
-- Business process documentation
-- Project planning
-
-## Academic Context
-
-**University:** Nova Southeastern University
-
-**Degree:** Bachelor of Science in Cybersecurity Management
-
-**Course:** Systems Analysis and Design
+Completed lab exercises, screenshots, troubleshooting procedures, and lessons learned will be added as the project progresses.
 
 ## Project Status
 
-Academic system design proposal. This repository documents the proposed system and its requirements rather than a deployed software application.
-
+In development. All scenarios use fictional users and simulated business environments.
